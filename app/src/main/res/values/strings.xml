@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Guia4</string>
+    <string name="btn_white">BLANCO</string>
+    <string name="btn_servicios">Servicios</string>
+    <string name="sel_button">ninguno</string>
+    <string name="sel">Boton seleccionado : </string>
+    <string name="btnRedesSociales">Redes Sociales</string>
+    <string name="btn_contacto">Contacto</string>
+    <string name="btn_acercade">Acerca De</string>
+    <string name="btn_portafolio">Portafolio</string>
+    <string name="label_title">Mi aplicación de Negocios</string>
+    <string name="services_title">Servicios</string>
+    <string name="incorrectos">Incorrectos : </string>
+    <string name="correctos">Correctos : </string>
+    <string name="number">number</string>
+    <string name="btn_par">Par</string>
+    <string name="btn_impar">Impar</string>
+    <string name="number_incorrectos">0</string>
+    <string name="number_correctos">0</string>
+</resources>
