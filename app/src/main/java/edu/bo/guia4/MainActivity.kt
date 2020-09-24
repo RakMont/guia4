@@ -27,6 +27,11 @@ class MainActivity : AppCompatActivity() {
         }
         btnPortafolio.setOnClickListener {
             selectedbutton.setText(R.string.btn_portafolio)
+            btn_servicios.setBackgroundColor(Color.parseColor("#009688"))
+            btnPortafolio.setBackgroundColor(Color.parseColor("#009688"))
+            btnAcercaDe.setBackgroundColor(Color.parseColor("#009688"))
+            btnContacto.setBackgroundColor(Color.parseColor("#009688"))
+            btnRedesSociales.setBackgroundColor(Color.parseColor("#009688"))
         }
         btnAcercaDe.setOnClickListener{
             selectedbutton.setText(R.string.btn_acercade)
